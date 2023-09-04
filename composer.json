@@ -1,0 +1,17 @@
+{
+    "name": "zizoujab/polyfill-demo",
+    "autoload": {
+        "psr-4": {
+            "Zizoujab\\PolyfillDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zied Jaballah",
+            "email": "zied.jabalah@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/polyfill-php80": "^1.28"
+    }
+}
